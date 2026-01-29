@@ -1,0 +1,49 @@
+"pk_pursuit","fk_person","fk_organisation","fk_occupation","fk_publication","fk_place","begin date","end date","label"
+1,1,3,6,,8,"1968","1968",coverage of the Biafran War
+4,1,3,6,,9,"1968","1968",coverage of the Vietnam War 
+5,1,1,4,,7,"1977","1982",
+6,1,1,4,,5,"1982","1985",
+7,1,2,3,,5,"1986","1996",
+9,2,5,9,,10,"1956-08-28","1958-10-30",
+10,2,6,10,,10,"1958-10-30","1961",
+11,2,7,11,,14,"1961","1965",
+12,2,8,11,,14,"1965","1967",
+13,2,8,11,,8,"1967-01","1967-07",coverage of the Biafran War
+14,2,,13,1,8,"1968","1968",coverage of the Biafran War
+15,2,9,12,,10,"1968","1988",
+16,2,,7,,,"1968","2018",
+18,3,11,6,,20,"1940","1940",coverage the war in Finland
+19,3,12,1,,17,"1941","1943",
+20,3,13,6,,8,"1968","1968",coverage the war in Finland
+23,4,14,26,,3,"1958","1959",journalism studies
+24,4,15,14,,23,"1959","1960",
+26,4,16,2,,3,"1967","1970",""
+27,4,16,6,,8,"1967-04","1967-12",coverage of the Vietnam War 
+29,5,3,6,,9,"1966","1969",coverage of the Vietnam War 
+30,5,,13,,40,"1974","1975",coverage of the Lebanese civil war
+31,5,,19,,,"1990","1997",
+32,6,18,6,,9,"1967","1973",
+33,6,3,20,,26,"1985-03-16","1991-12-04",during the of the Lebanese civil war
+34,6,17,21,,29,"2003","2004",
+35,7,20,26,,31,"1962","1966",journalism studies
+36,7,15,23,,33,"1967","1968",
+37,7,21,1,,5,"1977","1984",
+38,7,22,6,,26,"1985","1986",coverage of the Lebanese civil war
+39,7,"",7,,5,"1993","2016",
+40,8,23,26,,3,,,oriental language studies
+41,8,,13,,,"1982","2002",coverage of the Lebanese civil war
+42,8,,20,,26,"1987","1987",during the of the Lebanese civil war
+43,8,24,24,,36,"2009","2011",
+44,9,25,13,,26,"1975","1984",coverage of the Lebanese civil war
+45,9,,17,,,"1999","2016",
+46,9,,7,,,"2000","2014",
+48,10,27,6,2,40,"1986","2016",
+49,3,,7,,,"1941","2009",
+50,3,10,,,,,,
+51,3,10,26,,19,"1938","1938",
+52,5,,17,,,"1972","2016",
+53,6,19,26,,29,,"1974",journalism studies 
+54,6,19,26,,29,,"1974",political science studies 
+55,6,3,6,,26,"1983","1991-12-04",coverage of the Lebanese civil war
+56,7,22,20,,40,"1985","1986",during the of the Lebanese civil war
+57,9,,6,,9,"1968","1969",coverage of the Vietnam War 
