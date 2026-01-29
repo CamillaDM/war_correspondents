@@ -1,6 +1,6 @@
 # Catalogue des informations 
 
-Le catalogue des informations a pour objectif de présenter la structure logique de ma recherche. 
+Le catalogue des informations a pour objectif de présenter la structure logique de la recherche. 
 
 
 ##  Objets (avec leurs propriétés)
@@ -81,23 +81,4 @@ Le catalogue des informations a pour objectif de présenter la structure logique
 - personne est auteur de publication
 - publication traite de conflit
 - personne a été envoyée par organisation pour couvrir conflit
-
  
- ## Exemple d'instanciation 
-
-
-
-### Objet (individu)
-- personne : Catherine Leroy
-- organisation : Associated Press
-- lieu : Vietnam
-- occupation: war correspondent
-- conflit : Vietnam War
-
-
-### Relations
-- Catherine Leroy est née à Sannois 
-- Catherine Leroy est une femme
-- Catherine Leroy travaille pour l'Associated press
-- Catherine Leroy couvre la Vietnam War
-- Associated Press a envoyé Catherine Leroy pour couvrir la Vietnam War 
