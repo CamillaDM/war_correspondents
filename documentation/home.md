@@ -15,9 +15,9 @@ This project is interested in the evolution of the profession and practices of w
 
 ### Création de la base de données
 
-*  [Modèle conceptuel](../MCD_to_database_example.png)
-*  [Commentaire du modèle conceptuel](Modèle-conceptuel-commentaire.md)
-*  [Modèle logique ou relationnel](Modèle-logique-ou-relationnel.md)
+*  [Modèle conceptuel](../MCD_to_database.png)
+*  [Commentaire du modèle conceptuel](modele-conceptuel-commentaire.md)
+*  [Relational Schema](./documentation/relational_schema.png)
 
 ### Récupération et analyse de données existantes
 
@@ -25,9 +25,4 @@ This project is interested in the evolution of the profession and practices of w
 * [Importer les données de DBpedia](DBpedia/DBpedia_importer_dans_base_personnelle.md)
 * [Visualiser les données de DBpedia](DBpedia/DBpedia_analyser_donnees_importees.md)
 
-
-
-### Système d'information
-
-[Table des matières](Table_des_pages.md) qui liste toutes les pages du wiki
 
