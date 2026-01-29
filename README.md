@@ -19,8 +19,7 @@ Le choix de la population s'est fait à travers l'extraction de listes Wikipedia
 
 
 ## Schéma relationnel de la base de données
-[Relational Schema](./Documentation/relational_schema
-.png)
+![Relational Schema](./Documentation/relational_schema.png)
 
 <br/>
 
