@@ -19,10 +19,10 @@ Le choix de la population s'est fait à travers l'extraction de listes Wikipedia
 
 
 ## Schéma relationnel de la base de données
-![Relational Schema](./Documentation/relational_schema.png)
+![Relational Schema](./documentation/relational_schema.png)
 
 <br/>
 
 ## Table des matières
  
-* __[table of contents](Documentation/home.md)__ 
+* __[table of contents](documentation/home.md)__ 
