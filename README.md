@@ -13,13 +13,14 @@ Le choix de la population s'est fait à travers l'extraction de listes Wikipedia
 ## Etapes de réalisation: 
 1. Identification de la population cible via le web sémantique (DBpédia).
 2. Création d'un modèle conceptuel de données (MCD) afin de définir les objets. 
-3. Transformation du MCD en un modèle logique (MLD), soit un schéma relationnel avec des tables, contenant des clés primaires et des clés secondaires.
+3. Transformation du MCD en un schéma relationnel avec des tables, contenant des clés primaires et des clés secondaires.
 4. Extraction des données issues du web sémantique. 
-5. Nettoyage et structuration des données extraites.
+5. Nettoyage et structuration des données extraites en format CVS.
+6. Implémentation de la base relationnelle, permettant la création de views relationnelles, dont les résultats peuvent s'exporter.
 
 
 ## Schéma relationnel de la base de données
-![Relational Schema](./documentation/creation_de_la_base_de_donnees/schema_relationnel/relational_schema.png)
+![Relational Schema](./documentation/creation_de_la_base_de_donnees/MCD_to_database.png)
 
 <br/>
 
