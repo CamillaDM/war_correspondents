@@ -8,9 +8,9 @@ This project is interested in the evolution of the profession and practices of w
 
 ###  Phase exploratoire
 
-* [Problématique et questionnement](problematique_questionnement.md) 
-* [Listes de correspondants de guerre](listes_de_correspondants_de_guerre.md)
-* [Catalogue des informations](catalogue_des_informations.md)
+* [Problématique et questionnement](documentation/phase_exploratoire/problematique_questionnement.md) 
+* [Listes de correspondants de guerre](documentation/phase_exploratoire/listes_des_correspondants_de_guerre.md)
+* [Catalogue des informations](documentation/phase_exploratoire/catalogue_des_informations.md)
 
 ### Création de la base de données
 
