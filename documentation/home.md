@@ -6,6 +6,7 @@ This project is interested in the evolution of the profession and practices of w
 [Back to the repository README](../README.md)
     
 
+
 ###  Phase exploratoire
 
 * [Problématique et questionnement](phase_exploratoire/problematique_questionnement.md)
