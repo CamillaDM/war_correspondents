@@ -21,7 +21,7 @@ This project is interested in the evolution of the profession and practices of w
 ### Explorer DBpedia
 
 * [Explorer DBpedia](../dbpedia/dbpedia_explorer)
-* [Importer les données de DBpedia](dbpedia/dbpedia_export)
-* [Visualiser les données de DBpedia](dbpedia/dbpedia_import)
+* [Importer les données de DBpedia](../dbpedia/dbpedia_export)
+* [Visualiser les données de DBpedia](../dbpedia/dbpedia_import)
 
 
