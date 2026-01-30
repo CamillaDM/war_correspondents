@@ -14,9 +14,9 @@ This project is interested in the evolution of the profession and practices of w
 
 ### Création de la base de données
 
-*  [Modèle conceptuel](../MCD_to_database.png)
-*  [Commentaire du modèle conceptuel](modele-conceptuel-commentaire.md)
-*  [Relational Schema](./documentation/relational_schema.png)
+*  [Modèle conceptuel](creation_de_la_base_de_donnee/MCD_to_database.png)
+*  [Commentaire du modèle conceptuel](creation_de_la_base_de_donnee/modele-conceptuel-commentaire.md)
+*  [Relational Schema](creation_de_la_base_de_donnee/relational_schema.png)
 
 ### Explorer DBpedia
 
