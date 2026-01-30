@@ -18,7 +18,7 @@ This project is interested in the evolution of the profession and practices of w
 *  [Commentaire du modèle conceptuel](modele-conceptuel-commentaire.md)
 *  [Relational Schema](./documentation/relational_schema.png)
 
-### Récupération et analyse de données existantes
+### Explorer DBpedia
 
 * [Explorer DBpedia](DBpedia/DBpedia_explorer.md)
 * [Importer les données de DBpedia](DBpedia/DBpedia_importer_dans_base_personnelle.md)
